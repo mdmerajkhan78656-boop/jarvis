@@ -1,1 +1,1 @@
-# jarvis_fast.py
+# termux-clipboard-set < ~/jarvis_fast.py
